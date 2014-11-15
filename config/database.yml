@@ -1,0 +1,17 @@
+development:
+  adapter: postgresql
+  database: lineup_dev
+  user: ericsauter
+  password:
+
+test:
+  adapter: postgresql
+  database: lineup_test
+  user: ericsauter
+  password:
+
+production:
+  adapter: postgresql
+  database: lineup_pro
+  user: ericsauter
+  password:

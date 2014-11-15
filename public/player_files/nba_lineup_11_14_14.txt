@@ -1,0 +1,900 @@
+PF	
+Anthony Davis
+55.3	7	MIN@NO	$11,600	
+SF	
+LeBron James
+43.2	6	CLE@BOS	$10,700	
+SG	
+James Harden
+45.3	8	PHI@HOU	$10,200	
+C	
+Dwight Howard
+39	7	PHI@HOU	$9,400	
+SG	
+Kobe Bryant
+40.1	8	SA@LAL	$9,200	
+C	
+Al Jefferson
+36.3	8	CHA@PHO	$9,000	
+PF	
+Kevin Love
+34.8	6	CLE@BOS	$8,900	
+PF	
+Carmelo Anthony
+32.5	9	UTA@NY	$8,900	
+C	
+Chris Bosh
+38.4	8	MIA@ATL	$8,900	
+C	
+Nikola Vucevic
+38.3	9	MIL@ORL	$8,700	
+PG	
+Michael Carter-Williams
+30.1	1	PHI@HOU	$8,700	
+PG	
+Russell WestbrookO
+30.8	2	DET@OKC	$8,500	
+PG	
+Rajon Rondo
+38	6	CLE@BOS	$8,500	
+PF	
+Paul Millsap
+33.9	7	MIA@ATL	$8,400	
+SG	
+Dwyane WadeO
+34.4	8	MIA@ATL	$8,100	
+PG	
+Reggie Jackson
+37.4	6	DET@OKC	$8,100	
+PG	
+Ty Lawson
+31.1	6	DEN@IND	$8,100	
+PF	
+Tim Duncan
+35.7	6	SA@LAL	$8,000	
+PG	
+Kyrie Irving
+32.9	6	CLE@BOS	$7,800	
+PF	
+Serge Ibaka
+28.2	9	DET@OKC	$7,800	
+SG	
+Tyreke Evans
+34.7	7	MIN@NO	$7,600	
+SF	
+Josh Smith
+32.9	8	DET@OKC	$7,600	
+PG	
+Tony Wroten
+35.7	8	PHI@HOU	$7,600	
+PG	
+Jeff Teague
+31.5	7	MIA@ATL	$7,500	
+PF	
+Greg Monroe
+33.9	6	DET@OKC	$7,400	
+C	
+Andre Drummond
+24.7	8	DET@OKC	$7,400	
+PG	
+Kemba Walker
+30.3	8	CHA@PHO	$7,300	
+SF	
+Gordon Hayward
+33.7	9	UTA@NY	$7,300	
+SG	
+Victor OladipoO
+25.8	80	MIL@ORL	$7,200	
+PG	
+Brandon Knight
+34	8	MIL@ORL	$7,200	
+PG	
+Brandon Jennings
+27.7	8	DET@OKC	$7,200	
+PG	
+Jrue Holiday
+30.6	7	MIN@NO	$7,200	
+PF	
+Derrick Favors
+31.6	9	UTA@NY	$7,100	
+C	
+Al Horford
+29	7	MIA@ATL	$7,100	
+PF	
+David WestO
+28	80	DEN@IND	$7,100	
+PG	
+Tony Parker
+26.1	7	SA@LAL	$7,000	
+PG	
+Goran Dragic
+23.8	8	CHA@PHO	$7,000	
+SG	
+Lance StephensonO
+27.7	8	CHA@PHO	$7,000	
+SF	
+Tobias Harris
+29.7	9	MIL@ORL	$6,900	
+SF	
+Kawhi Leonard
+30.4	6	SA@LAL	$6,800	
+PF	
+Thaddeus YoungO
+25.6	7	MIN@NO	$6,800	
+PG	
+Ricky RubioO
+30.5	5	MIN@NO	$6,800	
+PF	
+Jared Sullinger
+31.7	7	CLE@BOS	$6,800	
+SF	
+Jeff Green
+30.1	7	CLE@BOS	$6,700	
+C	
+Nikola Pekovic
+27.2	7	MIN@NO	$6,700	
+C	
+Roy Hibbert
+32.3	9	DEN@IND	$6,700	
+SG	
+Eric Bledsoe
+25.3	8	CHA@PHO	$6,700	
+SF	
+Luol Deng
+23.8	8	MIA@ATL	$6,700	
+PF	
+Kenneth Faried
+24.6	7	DEN@IND	$6,500	
+C	
+Jordan Hill
+30.7	8	SA@LAL	$6,500	
+PF	
+Markieff Morris
+27.3	8	CHA@PHO	$6,500	
+PF	
+Carlos Boozer
+22.5	8	SA@LAL	$6,300	
+PG	
+Isaiah Thomas
+26.1	8	CHA@PHO	$6,300	
+SF	
+Trevor Ariza
+27.8	8	PHI@HOU	$6,300	
+PF	
+Terrence JonesO
+28.8	4	PHI@HOU	$6,200	
+SF	
+Perry Jones IIIO
+20.4	5	DET@OKC	$6,100	
+PF	
+Ryan Anderson
+25.2	7	MIN@NO	$6,100	
+SG	
+Kevin Martin
+26.1	6	MIN@NO	$6,000	
+PG	
+Jeremy Lin
+22.6	8	SA@LAL	$6,000	
+C	
+Larry Sanders
+23.1	8	MIL@ORL	$6,000	
+PF	
+Nerlens Noel
+21.4	6	PHI@HOU	$6,000	
+SG	
+Kyle Korver
+28.3	7	MIA@ATL	$5,800	
+PG	
+Trey Burke
+21.6	9	UTA@NY	$5,700	
+SG	
+Avery Bradley
+21.7	7	CLE@BOS	$5,700	
+SF	
+Chris Copeland
+23.8	9	DEN@IND	$5,600	
+PG	
+Jose CalderonO
+21.9	81	UTA@NY	$5,600	
+SG	
+Evan Fournier
+24.6	9	MIL@ORL	$5,600	
+C	
+Omer Asik
+26.7	7	MIN@NO	$5,500	
+SF	
+Jabari Parker
+20.2	8	MIL@ORL	$5,500	
+PG	
+Donald Sloan
+25.6	9	DEN@IND	$5,500	
+PG	
+Mo Williams
+15.5	7	MIN@NO	$5,500	
+SG	
+Alec Burks
+21.9	9	UTA@NY	$5,400	
+SG	
+Iman Shumpert
+23.9	9	UTA@NY	$5,400	
+C	
+Kelly Olynyk
+25.2	7	CLE@BOS	$5,400	
+SG	
+Jodie MeeksO
+23	77	DET@OKC	$5,300	
+SF	
+DeMarre CarrollO
+23	6	MIA@ATL	$5,300	
+PF	
+J.J. Hickson
+25.4	2	DEN@IND	$5,300	
+SG	
+Manu Ginobili
+21.6	6	SA@LAL	$5,300	
+SF	
+Andrew Wiggins
+16.2	7	MIN@NO	$5,200	
+PF	
+Amar'e Stoudemire
+23.6	9	UTA@NY	$5,200	
+C	
+Enes Kanter
+19.9	9	UTA@NY	$5,200	
+SF	
+Jeremy Lamb
+20.1	4	DET@OKC	$5,200	
+C	
+Henry Sims
+18.5	8	PHI@HOU	$5,200	
+SG	
+Andre RobersonO
+18.1	4	DET@OKC	$5,200	
+SG	
+J.R. Smith
+18.4	8	UTA@NY	$5,200	
+SG	
+Giannis Antetokounmpo
+19.3	8	MIL@ORL	$5,200	
+PG	
+George HillO
+21.3	76	DEN@IND	$5,200	
+SG	
+Nick YoungO
+23.5	64	SA@LAL	$5,100	
+PF	
+Andrea BargnaniO
+23	42	UTA@NY	$5,100	
+SF	
+Solomon Hill
+21.3	9	DEN@IND	$5,100	
+PG	
+Elfrid Payton
+20.5	9	MIL@ORL	$5,100	
+PF	
+Channing Frye
+19.8	8	MIL@ORL	$5,000	
+SG	
+Eric Gordon
+15.3	7	MIN@NO	$5,000	
+SG	
+Arron Afflalo
+16.4	7	DEN@IND	$5,000	
+PG	
+Isaiah Canaan
+13.6	8	PHI@HOU	$4,900	
+SG	
+O.J. Mayo
+21.4	8	MIL@ORL	$4,900	
+C	
+Gorgui Dieng
+19.4	7	MIN@NO	$4,900	
+SG	
+Zach LaVine
+12.8	4	MIN@NO	$4,900	
+SG	
+Rodney StuckeyO
+14.3	4	DEN@IND	$4,900	
+C	
+Anderson Varejao
+21.2	6	CLE@BOS	$4,900	
+PF	
+Marcus Morris
+18.5	8	CHA@PHO	$4,900	
+SG	
+Kentavious Caldwell-Pope
+19.6	8	DET@OKC	$4,800	
+SF	
+Gerald Green
+20.7	8	CHA@PHO	$4,800	
+PG	
+Nate Robinson
+10.8	7	DEN@IND	$4,800	
+SG	
+Randy FoyeO
+16.6	7	DEN@IND	$4,800	
+SF	
+Michael Kidd-GilchristO
+19.4	6	CHA@PHO	$4,800	
+C	
+Tiago SplitterO
+13.8	1	SA@LAL	$4,700	
+SF	
+Wilson Chandler
+18.2	7	DEN@IND	$4,700	
+PF	
+Tristan Thompson
+19.1	6	CLE@BOS	$4,700	
+PG	
+Marcus SmartO
+13.7	5	CLE@BOS	$4,700	
+SF	
+P.J. Tucker
+19.6	5	CHA@PHO	$4,700	
+PG	
+Patrick BeverleyO
+17.7	3	PHI@HOU	$4,700	
+PF	
+Brandon Davies
+16.6	8	PHI@HOU	$4,700	
+C	
+Kyle O'QuinnO
+20.9	1	MIL@ORL	$4,600	
+C	
+Lavoy Allen
+21.1	9	DEN@IND	$4,600	
+PG	
+Mario Chalmers
+19.4	8	MIA@ATL	$4,600	
+SF	
+Danilo Gallinari
+12.6	7	DEN@IND	$4,600	
+SF	
+Khris MiddletonO
+17.1	6	MIL@ORL	$4,600	
+PG	
+Patrick MillsO
+16.6	81	SA@LAL	$4,600	
+PF	
+Ed Davis
+22.9	8	SA@LAL	$4,500	
+SF	
+Hollis Thompson
+17.1	8	PHI@HOU	$4,500	
+SF	
+Shawne Williams
+20.1	8	MIA@ATL	$4,500	
+C	
+Miles Plumlee
+18.4	8	CHA@PHO	$4,500	
+SF	
+Evan Turner
+15.9	7	CLE@BOS	$4,500	
+SF	
+Corey Brewer
+15.2	7	MIN@NO	$4,400	
+PF	
+Luis Scola
+17.8	9	DEN@IND	$4,400	
+PF	
+Noah VonlehO
+0	0	CHA@PHO	$4,400	
+PF	
+Boris Diaw
+20	7	SA@LAL	$4,400	
+PG	
+Sebastian Telfair
+17.8	9	DET@OKC	$4,300	
+C	
+Timofey Mozgov
+17.7	7	DEN@IND	$4,300	
+PG	
+D.J. Augustin
+17.4	8	DET@OKC	$4,300	
+PF	
+Donatas Motiejunas
+13.6	8	PHI@HOU	$4,300	
+SF	
+K.J. McDaniels
+16.4	8	PHI@HOU	$4,300	
+SG	
+Gary Harris
+0	0	DEN@IND	$4,300	
+SG	
+Danny Green
+17.5	7	SA@LAL	$4,300	
+SG	
+Dion WaitersO
+12.5	5	CLE@BOS	$4,300	
+SG	
+Gary NealO
+20.1	8	CHA@PHO	$4,200	
+SF	
+Lance Thomas
+15.1	9	DET@OKC	$4,200	
+SG	
+Danny GrangerO
+13.9	41	MIA@ATL	$4,200	
+SF	
+Kostas Papanikolaou
+16.6	8	PHI@HOU	$4,200	
+PF	
+Ersan Ilyasova
+11.9	8	MIL@ORL	$4,200	
+PG	
+Norris Cole
+16.1	8	MIA@ATL	$4,200	
+C	
+Steven Adams
+18.5	9	DET@OKC	$4,200	
+SF	
+Wesley Johnson
+15	8	SA@LAL	$4,200	
+SG	
+Anthony Morrow
+21.8	2	DET@OKC	$4,100	
+PF	
+Josh McRoberts
+6.6	7	MIA@ATL	$4,100	
+PF	
+John Henson
+11.1	8	MIL@ORL	$4,100	
+SF	
+Gerald Henderson
+8.8	6	CHA@PHO	$4,100	
+PF	
+Brandon Bass
+10.9	7	CLE@BOS	$4,000	
+C	
+Samuel Dalembert
+13.2	9	UTA@NY	$4,000	
+C	
+Zaza Pachulia
+13.9	7	MIL@ORL	$4,000	
+C	
+JaVale McGee
+10.8	7	DEN@IND	$4,000	
+SG	
+Jason Terry
+13.1	8	PHI@HOU	$4,000	
+PG	
+Luke Ridnour
+12.9	9	MIL@ORL	$4,000	
+SG	
+Marco BelinelliO
+13.2	3	SA@LAL	$3,900	
+PF	
+Tarik Black
+7	6	PHI@HOU	$3,900	
+SF	
+Shawn Marion
+12.6	6	CLE@BOS	$3,900	
+PF	
+Jason Smith
+13	9	UTA@NY	$3,900	
+PG	
+Ronnie PriceO
+14.8	8	SA@LAL	$3,900	
+SF	
+C.J. MilesO
+13.3	5	DEN@IND	$3,900	
+PG	
+A.J. Price
+15.6	4	DEN@IND	$3,900	
+SF	
+Kyle Anderson
+8.9	3	SA@LAL	$3,900	
+PG	
+Kendall Marshall
+4.6	3	MIL@ORL	$3,900	
+PG	
+Dennis Schroeder
+14.2	6	MIA@ATL	$3,900	
+C	
+Kendrick Perkins
+13.4	9	DET@OKC	$3,800	
+SF	
+Maurice Harkless
+12.3	5	MIL@ORL	$3,800	
+PG	
+Alexey ShvedO
+15.5	7	PHI@HOU	$3,800	
+PG	
+Jerryd Bayless
+13.9	8	MIL@ORL	$3,800	
+PF	
+Cody Zeller
+17.1	8	CHA@PHO	$3,800	
+SG	
+Tim Hardaway Jr.
+13.2	9	UTA@NY	$3,800	
+PG	
+Shane Larkin
+14.1	9	UTA@NY	$3,800	
+PF	
+Trevor Booker
+16.7	9	UTA@NY	$3,800	
+SF	
+Luc Richard Mbah a Moute
+17.5	7	PHI@HOU	$3,800	
+PG	
+Ishmael Smith
+6.3	3	DET@OKC	$3,800	
+SG	
+Jason RichardsonO
+20	33	PHI@HOU	$3,700	
+PG	
+Cory Joseph
+13.7	7	SA@LAL	$3,700	
+SG	
+Chris Johnson
+12.7	8	PHI@HOU	$3,700	
+C	
+Tyler Zeller
+10.7	7	CLE@BOS	$3,700	
+SG	
+Marcus ThorntonO
+9.1	6	CLE@BOS	$3,700	
+PG	
+C.J. WatsonO
+12.2	63	DEN@IND	$3,700	
+SG	
+Austin Rivers
+13.6	7	MIN@NO	$3,600	
+PF	
+Udonis Haslem
+10.2	3	MIA@ATL	$3,600	
+PF	
+Nick Collison
+14.8	9	DET@OKC	$3,600	
+C	
+Aron Baynes
+9.9	7	SA@LAL	$3,600	
+PF	
+Adreian Payne
+0	0	MIA@ATL	$3,600	
+C	
+Vitor FaveraniO
+10.3	37	CLE@BOS	$3,600	
+PF	
+Marvin WilliamsO
+14.4	8	CHA@PHO	$3,600	
+C	
+Justin HamiltonO
+10.8	4	MIA@ATL	$3,600	
+SF	
+Rodney HoodO
+10.8	6	UTA@NY	$3,600	
+PG	
+Phil (Flip) Pressey
+8.5	4	CLE@BOS	$3,600	
+SG	
+Thabo Sefolosha
+14.7	7	MIA@ATL	$3,600	
+PF	
+Darrell Arthur
+12.1	6	DEN@IND	$3,600	
+SG	
+Ian Clark
+3.4	4	UTA@NY	$3,500	
+PG	
+Matthew DellavedovaO
+8	3	CLE@BOS	$3,500	
+SF	
+James Ennis
+5.6	8	MIA@ATL	$3,500	
+SF	
+Drew Gordon
+8	1	PHI@HOU	$3,500	
+C	
+Robert Sacre
+5.8	7	SA@LAL	$3,500	
+C	
+Alex Kirk
+1.8	2	CLE@BOS	$3,500	
+PG	
+Will Cherry
+2.2	2	CLE@BOS	$3,500	
+PF	
+Tony Mitchell
+3.3	21	DET@OKC	$3,500	
+PF	
+Mike Muscala
+8.4	1	MIA@ATL	$3,500	
+SG	
+Kent Bazemore
+4.7	5	MIA@ATL	$3,500	
+SF	
+Glenn Robinson III
+0	0	MIN@NO	$3,500	
+SF	
+James Young
+6.1	2	CLE@BOS	$3,500	
+PG	
+Tyler Ennis
+2.9	2	CHA@PHO	$3,500	
+PF	
+Aaron Gordon
+10.3	9	MIL@ORL	$3,500	
+C	
+Pero Antic
+9.9	6	MIA@ATL	$3,500	
+C	
+Rudy Gobert
+13.3	9	UTA@NY	$3,500	
+SF	
+Luigi DatomeO
+4.6	34	DET@OKC	$3,500	
+C	
+Joel EmbiidO
+0	0	PHI@HOU	$3,500	
+PG	
+Dante Exum
+12.7	9	UTA@NY	$3,500	
+SF	
+Joe Ingles
+5.7	9	UTA@NY	$3,500	
+SG	
+Zoran Dragic
+0	0	CHA@PHO	$3,500	
+SF	
+Damjan Rudez
+6.4	9	DEN@IND	$3,500	
+SF	
+Damien InglisO
+0	0	MIL@ORL	$3,500	
+C	
+Jusuf Nurkic
+11.9	6	DEN@IND	$3,500	
+PF	
+Clint Capela
+4.1	1	PHI@HOU	$3,500	
+SF	
+Cleanthony Early
+5.3	6	UTA@NY	$3,500	
+PF	
+Anthony Bennett
+10.6	6	MIN@NO	$3,500	
+SF	
+T.J. Warren
+0	1	CHA@PHO	$3,500	
+PG	
+Pablo Prigioni
+10.1	7	UTA@NY	$3,500	
+PG	
+Toure' Murry
+5.3	51	UTA@NY	$3,500	
+C	
+Shayne Whittington
+8.6	1	DEN@IND	$3,500	
+SG	
+Jordan Clarkson
+6.2	7	SA@LAL	$3,500	
+PG	
+Troy Daniels
+3	7	PHI@HOU	$3,500	
+PF	
+Grant JerrettO
+0	0	DET@OKC	$3,500	
+SF	
+Shabazz Muhammad
+9	7	MIN@NO	$3,500	
+PG	
+Archie Goodwin
+3.2	3	CHA@PHO	$3,500	
+PF	
+Jerami GrantO
+0	0	PHI@HOU	$3,500	
+PF	
+Andrew Nicholson
+4.5	3	MIL@ORL	$3,500	
+PF	
+Mitch McGaryO
+0	0	DET@OKC	$3,500	
+PG	
+Brian Roberts
+9.5	8	CHA@PHO	$3,500	
+PG	
+Nate Wolters
+5.8	2	MIL@ORL	$3,500	
+PG	
+Shabazz Napier
+12.3	8	MIA@ATL	$3,500	
+PF	
+Jonas Jerebko
+9.8	6	DET@OKC	$3,500	
+SF	
+Alonzo Gee
+10.2	6	DEN@IND	$3,500	
+SG	
+Xavier Henry
+2.6	6	SA@LAL	$3,500	
+SG	
+Wayne EllingtonO
+13.9	5	SA@LAL	$3,500	
+C	
+Ian Mahinmi
+9.6	9	DEN@IND	$3,500	
+PF	
+Jeff Ayres
+5.1	5	SA@LAL	$3,500	
+SF	
+Chase Budinger
+3.2	5	MIN@NO	$3,500	
+SF	
+Luke Babbitt
+2.7	3	MIN@NO	$3,500	
+PF	
+Shavlik Randolph
+2.3	4	CHA@PHO	$3,500	
+PG	
+Jimmer Fredette
+3.9	5	MIN@NO	$3,500	
+C	
+Jason Maxiell
+5.2	8	CHA@PHO	$3,500	
+C	
+Bismack Biyombo
+-1	1	CHA@PHO	$3,500	
+C	
+Ronny Turiaf
+2.7	1	MIN@NO	$3,500	
+C	
+Cole Aldrich
+10.5	6	UTA@NY	$3,500	
+SF	
+Jeremy Evans
+0	2	UTA@NY	$3,500	
+PF	
+Anthony Tolliver
+6.1	7	CHA@PHO	$3,500	
+SF	
+Steve Novak
+1.7	6	UTA@NY	$3,500	
+SF	
+Mike Miller
+4	6	CLE@BOS	$3,500	
+SF	
+Caron Butler
+14.8	8	DET@OKC	$3,500	
+C	
+Brendan Haywood
+0	1	CLE@BOS	$3,500	
+SG	
+Willie Green
+4.8	5	MIL@ORL	$3,500	
+PF	
+Elton Brand
+2.2	1	MIA@ATL	$3,500	
+SF	
+Jared Dudley
+9.3	8	MIL@ORL	$3,500	
+C	
+Matt Bonner
+8.2	4	SA@LAL	$3,500	
+C	
+Joel Anthony
+5.5	5	DET@OKC	$3,500	
+SF	
+James Jones
+0	1	CLE@BOS	$3,500	
+SF	
+Kevin DurantO
+49.6	81	DET@OKC	$3,500	
+SF	
+Cartier MartinO
+9.2	59	DET@OKC	$3,500	
+SF	
+Francisco GarciaO
+5.1	2	PHI@HOU	$3,500	
+C	
+Joey Dorsey
+2	5	PHI@HOU	$3,500	
+C	
+Alexis Ajinca
+4.6	5	MIN@NO	$3,500	
+SG	
+Shannon Brown
+1	1	MIA@ATL	$3,500	
+SF	
+Austin Daye
+6.2	5	SA@LAL	$3,500	
+SG	
+Ben Gordon
+10.7	8	MIL@ORL	$3,500	
+SF	
+Robbie Hummel
+7	4	MIN@NO	$3,500	
+PF	
+Jakarr Sampson
+6.9	8	PHI@HOU	$3,500	
+PF	
+Dwight Powell
+0	0	CLE@BOS	$3,500	
+PG	
+Jannero Pargo
+2	1	CHA@PHO	$3,500	
+SG	
+P.J. Hairston
+9.8	5	CHA@PHO	$3,500	
+C	
+Alex Len
+12.1	8	CHA@PHO	$3,500	
+SF	
+John Salmons
+1.7	4	MIN@NO	$3,500	
+PF	
+Travis Wear
+1.9	6	UTA@NY	$3,500	
+C	
+Dewayne Dedmon
+8.1	6	MIL@ORL	$3,500	
+SG	
+Erick Green
+8.7	1	DEN@IND	$3,500	
+SF	
+Gerald Wallace
+2.2	4	CLE@BOS	$3,500	
+PF	
+Mike ScottO
+12.8	6	MIA@ATL	$3,500	
+SG	
+Joe Harris
+3.9	4	CLE@BOS	$3,500	
+SG	
+John Jenkins
+5.8	13	MIA@ATL	$3,500	
+SF	
+Jeffery TaylorO
+12.5	26	CHA@PHO	$3,500	
+C	
+Johnny O'BryantO
+0	0	MIL@ORL	$3,500	
+PG	
+Russ Smith
+-2	1	MIN@NO	$3,500	
+SG	
+Nick Johnson
+1.1	3	PHI@HOU	$3,500	
+SF	
+Quincy Acy
+11.5	7	UTA@NY	$3,500	
+PG	
+Shelvin Mack
+5.1	6	MIA@ATL	$3,500	
+SF	
+Kyle Singler
+8.2	8	DET@OKC	$3,500	
+C	
+Chris Andersen
+9.7	3	MIA@ATL	$3,500	
+SF	
+Jordan Hamilton
+13.3	60	UTA@NY	$3,500	
+SG	
+Spencer Dinwiddie
+1.5	1	DET@OKC	$3,500	
+PF	
+Louis Amundson
+7.3	19	CLE@BOS	$3,500	
+C	
+Jeff Withey
+2.2	2	MIN@NO	$3,500	
+SG	
+Darius Miller
+3	1	MIN@NO	$3,500	
+SG	
+Roy Devyn MarbleO
+1.3	4	MIL@ORL	$3,500	
+C	
+Patric Young
+0	0	MIN@NO	$3,500	
+SG	
+Andre Dawkins
+-0.5	2	MIA@ATL	$3,500	
+PF	
+Ryan KellyO
+2	1	SA@LAL	$3,500	
+PF	
+Malcolm Thomas
+11.1	5	PHI@HOU	$3,500	

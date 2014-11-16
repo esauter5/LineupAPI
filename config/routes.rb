@@ -1,4 +1,4 @@
 LineupApi::Application.routes.draw do
-  get 'lineup' => 'lineup#optimal'
+  post 'lineup' => 'lineup#optimal'
   get 'players' => 'lineup#players'
 end

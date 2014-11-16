@@ -15,21 +15,36 @@ class LineupController < ApplicationController
     sf_xes = (0..players.length-1).select { |i| players[i]["position"] == "SF" }.map { |i| "x#{i}" }
     pf_xes = (0..players.length-1).select { |i| players[i]["position"] == "PF" }.map { |i| "x#{i}" }
     c_xes = (0..players.length-1).select { |i| players[i]["position"] == "C" }.map { |i| "x#{i}" }
-    #params[:include] = ["Sebastian Telfair"]
+    i_indexes = []
+
+    params[:include].each { |inc| i_indexes << players.index { |p| p.name == inc } } if params[:include]
+
+    maximize_statement += " = 9;"
+    costs = cost_xes.join(" + ") + " <= 60000;"
+    pgs = pg_xes.join(" + ") + " = 2;"
+    sgs = sg_xes.join(" + ") + " = 2;"
+    sfs = sf_xes.join(" + ") + " = 2;"
+    pfs = pf_xes.join(" + ") + " = 2;"
+    cs = c_xes.join(" + ") + " = 1;"
+    max_points = "max: " + points_xes.join(" + ") + ";"
+
+    i_indexes.each do |i_index|
+      max_points.gsub!("x#{i_index} ", " ")
+      maximize_statement.gsub!("x#{i_index} ", "1 ")
+      costs.gsub!("x#{i_index} ", " ")
+      [pgs, sgs, sfs, pfs, cs].each { |str| str.gsub!("x#{i_index} ", "1 ") }
+    end
+
 
     File.open("test_solve", "w") do |file|
-      file.puts "max: " + points_xes.join(" + ") + ";"
-    #  params[:include].each do |player|
-     #  index = players.index { |p| p.name == player }
-      # file.puts "x#{index} = 1;"
-     # end
-      file.puts maximize_statement + " = 9;"
-      file.puts cost_xes.join(" + ") + " <= 60000;"
-      file.puts pg_xes.join(" + ") + " = 2;"
-      file.puts sg_xes.join(" + ") + " = 2;"
-      file.puts sf_xes.join(" + ") + " = 2;"
-      file.puts pf_xes.join(" + ") + " = 2;"
-      file.puts c_xes.join(" + ") + " = 1;"
+      file.puts max_points
+      file.puts maximize_statement
+      file.puts costs
+      file.puts pgs
+      file.puts sgs
+      file.puts sfs
+      file.puts pfs
+      file.puts cs
       file.puts "\nbin " + xes.join(", ") + ";"
     end
 

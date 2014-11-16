@@ -29,7 +29,7 @@ namespace :players do
 
   desc "Scrape ceiling and floors"
   task :ceiling_floor => :environment do
-    lines = File.readlines("public/player_files/nba_ceiling_11_15_14.txt")
+    lines = File.readlines("public/player_files/nba_ceiling_11_16_14.txt")
     players = []
 
     lines.each do |l|

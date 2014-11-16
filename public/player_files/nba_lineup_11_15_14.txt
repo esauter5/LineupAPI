@@ -1,0 +1,897 @@
+SF	
+LeBron James
+44.9	7	ATL@CLE	$10,700	
+PG	
+Chris Paul
+42.5	7	PHO@LAC	$10,000	
+C	
+DeMarcus Cousins
+40.4	9	SA@SAC	$9,800	
+PG	
+Stephen Curry
+42.6	8	CHA@GS	$9,600	
+PF	
+LaMarcus AldridgeO
+37	9	BKN@POR	$9,300	
+PF	
+Blake Griffin
+36.9	7	PHO@LAC	$9,200	
+PG	
+John Wall
+40.6	8	ORL@WAS	$9,200	
+C	
+Al Jefferson
+35.4	9	CHA@GS	$9,000	
+PF	
+Kevin Love
+35.1	7	ATL@CLE	$8,900	
+PF	
+Pau Gasol
+39.1	9	IND@CHI	$8,800	
+C	
+Nikola Vucevic
+37.9	10	ORL@WAS	$8,700	
+PG	
+Damian Lillard
+35.2	9	BKN@POR	$8,600	
+PF	
+Paul Millsap
+34.3	8	ATL@CLE	$8,500	
+SF	
+Rudy Gay
+37.3	9	SA@SAC	$8,500	
+PG	
+Kyle Lowry
+34.2	9	UTA@TOR	$8,400	
+C	
+Joakim Noah
+28.7	7	IND@CHI	$8,100	
+PF	
+Tim Duncan
+34.9	7	SA@SAC	$8,000	
+C	
+Marc Gasol
+34.8	9	DET@MEM	$8,000	
+SG	
+DeMar DeRozan
+31.9	9	UTA@TOR	$7,900	
+SG	
+Brad BealO
+27.3	73	ORL@WAS	$7,900	
+PG	
+Kyrie Irving
+35	7	ATL@CLE	$7,800	
+PF	
+Dirk Nowitzki
+31.9	9	MIN@DAL	$7,700	
+PF	
+Zach Randolph
+31.9	9	DET@MEM	$7,700	
+SF	
+Josh Smith
+32	9	DET@MEM	$7,600	
+SG	
+Monta Ellis
+28.4	9	MIN@DAL	$7,500	
+SG	
+Klay Thompson
+33.9	7	CHA@GS	$7,500	
+PG	
+Jeff Teague
+31.3	8	ATL@CLE	$7,500	
+PG	
+Deron Williams
+32	8	BKN@POR	$7,500	
+C	
+Andre Drummond
+25.6	9	DET@MEM	$7,400	
+PF	
+Greg Monroe
+33.8	7	DET@MEM	$7,400	
+PG	
+Derrick RoseO
+28.1	5	IND@CHI	$7,400	
+PG	
+Kemba Walker
+30.5	9	CHA@GS	$7,300	
+PG	
+Mike Conley
+29.5	9	DET@MEM	$7,300	
+SF	
+Gordon Hayward
+35.4	10	UTA@TOR	$7,300	
+SG	
+Victor Oladipo
+18.6	1	ORL@WAS	$7,200	
+PG	
+Brandon Jennings
+30	9	DET@MEM	$7,200	
+SG	
+Jimmy Butler
+35.3	7	IND@CHI	$7,200	
+C	
+DeAndre Jordan
+29.3	7	PHO@LAC	$7,100	
+PF	
+Derrick Favors
+32.9	10	UTA@TOR	$7,100	
+C	
+Al Horford
+29.8	8	ATL@CLE	$7,100	
+PF	
+David WestO
+28	80	IND@CHI	$7,100	
+SF	
+Draymond Green
+29.4	8	CHA@GS	$7,000	
+C	
+Marcin Gortat
+29.3	8	ORL@WAS	$7,000	
+PF	
+David LeeO
+5	1	CHA@GS	$7,000	
+PG	
+Goran Dragic
+23	9	PHO@LAC	$7,000	
+PG	
+Tony Parker
+25.8	8	SA@SAC	$7,000	
+SG	
+Lance Stephenson
+28.7	9	CHA@GS	$7,000	
+SF	
+Nicolas BatumO
+28.3	7	BKN@POR	$6,900	
+SF	
+Tobias Harris
+31	10	ORL@WAS	$6,900	
+C	
+Brook Lopez
+26.7	6	BKN@POR	$6,900	
+PG	
+Ricky RubioO
+30.5	5	MIN@DAL	$6,800	
+PF	
+Thaddeus YoungO
+25.6	7	MIN@DAL	$6,800	
+SF	
+Kawhi Leonard
+29.3	7	SA@SAC	$6,800	
+SG	
+Eric Bledsoe
+27.5	9	PHO@LAC	$6,700	
+C	
+Nikola Pekovic
+24.8	8	MIN@DAL	$6,700	
+C	
+Roy Hibbert
+30.9	10	IND@CHI	$6,700	
+PG	
+Darren Collison
+31.9	8	SA@SAC	$6,500	
+SG	
+Joe Johnson
+31.8	8	BKN@POR	$6,500	
+PF	
+Markieff Morris
+27.3	9	PHO@LAC	$6,500	
+C	
+Andrew Bogut
+27.5	8	CHA@GS	$6,400	
+SG	
+Wesley Matthews
+26.9	9	BKN@POR	$6,400	
+PG	
+Isaiah Thomas
+25	9	PHO@LAC	$6,300	
+SF	
+Chandler Parsons
+24.2	9	MIN@DAL	$6,300	
+PF	
+Nene HilarioO
+24.3	7	ORL@WAS	$6,100	
+SG	
+Kevin Martin
+22.7	7	MIN@DAL	$6,000	
+C	
+Tyson Chandler
+26.5	9	MIN@DAL	$5,900	
+C	
+Jonas Valanciunas
+21.1	8	UTA@TOR	$5,900	
+C	
+Robin Lopez
+25.1	9	BKN@POR	$5,900	
+SF	
+Paul Pierce
+24.3	8	ORL@WAS	$5,800	
+SG	
+Kyle Korver
+28.6	8	ATL@CLE	$5,800	
+PF	
+Taj Gibson
+25.3	8	IND@CHI	$5,800	
+SG	
+Jamal Crawford
+25.6	6	PHO@LAC	$5,800	
+PG	
+Trey Burke
+22.1	10	UTA@TOR	$5,700	
+SG	
+Evan Fournier
+24.3	10	ORL@WAS	$5,600	
+SF	
+Chris Copeland
+22	10	IND@CHI	$5,600	
+PG	
+Mo Williams
+14.7	8	MIN@DAL	$5,500	
+PG	
+Donald Sloan
+25	10	IND@CHI	$5,500	
+SG	
+Courtney Lee
+25.3	7	DET@MEM	$5,400	
+SF	
+Mike Dunleavy
+21.4	9	IND@CHI	$5,400	
+SG	
+Alec Burks
+21.6	10	UTA@TOR	$5,400	
+SF	
+DeMarre CarrollO
+23	6	ATL@CLE	$5,300	
+SG	
+Manu Ginobili
+22.4	7	SA@SAC	$5,300	
+SG	
+Jodie MeeksO
+23	77	DET@MEM	$5,300	
+PG	
+George HillO
+21.3	76	IND@CHI	$5,200	
+SF	
+Andrew Wiggins
+17.2	8	MIN@DAL	$5,200	
+C	
+Enes Kanter
+18.8	10	UTA@TOR	$5,200	
+PF	
+Amir Johnson
+21.8	6	UTA@TOR	$5,100	
+PG	
+Elfrid Payton
+19.6	10	ORL@WAS	$5,100	
+SF	
+Solomon Hill
+21.1	10	IND@CHI	$5,100	
+PF	
+Channing Frye
+20.1	9	ORL@WAS	$5,000	
+C	
+Chris Kaman
+21.1	9	BKN@POR	$5,000	
+SF	
+Harrison Barnes
+19.6	8	CHA@GS	$4,900	
+C	
+Gorgui Dieng
+19.4	8	MIN@DAL	$4,900	
+SG	
+Zach LaVine
+13.2	5	MIN@DAL	$4,900	
+C	
+Anderson Varejao
+21.7	7	ATL@CLE	$4,900	
+PF	
+Marcus Morris
+19.6	9	PHO@LAC	$4,900	
+SF	
+Martell WebsterO
+15.7	78	ORL@WAS	$4,900	
+SG	
+Rodney StuckeyO
+14.3	4	IND@CHI	$4,900	
+SF	
+Gerald Green
+18.4	9	PHO@LAC	$4,800	
+SF	
+Michael Kidd-GilchristO
+19.4	6	CHA@GS	$4,800	
+SG	
+Kentavious Caldwell-Pope
+18.6	9	DET@MEM	$4,800	
+SF	
+Mirza Teletovic
+20.2	8	BKN@POR	$4,700	
+PF	
+Tristan Thompson
+17.4	7	ATL@CLE	$4,700	
+SF	
+P.J. Tucker
+18.2	6	PHO@LAC	$4,700	
+SF	
+Terrence Ross
+18.9	9	UTA@TOR	$4,700	
+PG	
+Raymond FeltonO
+23	65	MIN@DAL	$4,700	
+C	
+Tiago SplitterO
+13.8	1	SA@SAC	$4,700	
+PG	
+Jameer Nelson
+15.5	9	MIN@DAL	$4,700	
+SF	
+Andre Iguodala
+14.3	8	CHA@GS	$4,600	
+PF	
+Kevin Garnett
+20.7	8	BKN@POR	$4,600	
+PG	
+Garrett Temple
+20.6	8	ORL@WAS	$4,600	
+SG	
+J.J. Redick
+17.9	7	PHO@LAC	$4,600	
+SG	
+Tony Allen
+20.4	9	DET@MEM	$4,600	
+C	
+Kyle O'QuinnO
+20.9	1	ORL@WAS	$4,600	
+PG	
+Patrick MillsO
+16.6	81	SA@SAC	$4,600	
+C	
+Lavoy Allen
+21.3	10	IND@CHI	$4,600	
+SF	
+James Johnson
+19.4	9	UTA@TOR	$4,500	
+PG	
+Devin Harris
+20.8	9	MIN@DAL	$4,500	
+C	
+Miles Plumlee
+19.3	9	PHO@LAC	$4,500	
+SF	
+Corey Brewer
+16.9	8	MIN@DAL	$4,400	
+PF	
+Patrick Patterson
+16.6	9	UTA@TOR	$4,400	
+PG	
+Aaron Brooks
+18.3	9	IND@CHI	$4,400	
+C	
+Mason Plumlee
+17.3	8	BKN@POR	$4,400	
+PF	
+Luis Scola
+17.1	10	IND@CHI	$4,400	
+PF	
+Noah VonlehO
+0	0	CHA@GS	$4,400	
+PF	
+Boris Diaw
+19.7	8	SA@SAC	$4,400	
+PG	
+Jarrett Jack
+17.1	8	BKN@POR	$4,400	
+SG	
+Dion Waiters
+13.1	6	ATL@CLE	$4,300	
+C	
+Spencer Hawes
+13.4	7	PHO@LAC	$4,300	
+PG	
+D.J. Augustin
+16.3	9	DET@MEM	$4,300	
+SG	
+Danny Green
+17.5	8	SA@SAC	$4,300	
+PG	
+Kirk Hinrich
+15.1	9	IND@CHI	$4,200	
+SF	
+Bojan Bogdanovic
+15.8	8	BKN@POR	$4,200	
+SG	
+Gary Neal
+20.4	9	CHA@GS	$4,200	
+SG	
+Ben McLemore
+15.8	9	SA@SAC	$4,200	
+SF	
+Otto Porter
+15	8	ORL@WAS	$4,100	
+SF	
+Gerald Henderson
+8.3	7	CHA@GS	$4,100	
+C	
+Brandan Wright
+18	9	MIN@DAL	$4,100	
+PG	
+Greivis VasquezO
+14.6	9	UTA@TOR	$4,000	
+PF	
+Glen Davis
+3.8	2	PHO@LAC	$4,000	
+PF	
+Kris Humphries
+11.8	7	ORL@WAS	$4,000	
+SF	
+Dorell Wright
+5	5	BKN@POR	$4,000	
+PG	
+Luke Ridnour
+12.9	10	ORL@WAS	$4,000	
+PG	
+Ramon Sessions
+9.4	9	SA@SAC	$4,000	
+SF	
+Vince Carter
+10.7	8	DET@MEM	$4,000	
+SF	
+Kyle Anderson
+8	4	SA@SAC	$3,900	
+PF	
+Marreese Speights
+12.4	7	CHA@GS	$3,900	
+PG	
+A.J. Price
+17	5	IND@CHI	$3,900	
+PG	
+Jose Juan Barea
+15.1	8	MIN@DAL	$3,900	
+SF	
+C.J. MilesO
+11.4	6	IND@CHI	$3,900	
+SF	
+Shawn Marion
+13	7	ATL@CLE	$3,900	
+SG	
+Marco BelinelliO
+13.2	3	SA@SAC	$3,900	
+SF	
+Tayshaun Prince
+10.8	5	DET@MEM	$3,900	
+PG	
+Dennis Schroeder
+15.8	7	ATL@CLE	$3,900	
+PF	
+Trevor Booker
+16.3	10	UTA@TOR	$3,800	
+SF	
+Matt Barnes
+10.9	7	PHO@LAC	$3,800	
+SF	
+Maurice Harkless
+12.3	5	ORL@WAS	$3,800	
+PF	
+Cody Zeller
+17	9	CHA@GS	$3,800	
+PF	
+Carl Landry
+15.1	9	SA@SAC	$3,800	
+PG	
+Cory Joseph
+15	8	SA@SAC	$3,700	
+PG	
+Beno Udrih
+11.5	9	DET@MEM	$3,700	
+C	
+Kosta Koufos
+8.9	9	DET@MEM	$3,700	
+SF	
+Reggie Bullock
+10.9	2	PHO@LAC	$3,700	
+SG	
+C.J. McCollum
+8	9	BKN@POR	$3,700	
+PF	
+Drew Gooden
+12.8	6	ORL@WAS	$3,700	
+PG	
+C.J. WatsonO
+12.2	63	IND@CHI	$3,700	
+SG	
+Louis Williams
+13.2	9	UTA@TOR	$3,600	
+SF	
+Rodney HoodO
+10.8	6	UTA@TOR	$3,600	
+C	
+Aron Baynes
+10.2	8	SA@SAC	$3,600	
+SF	
+Rasual Butler
+12.1	4	ORL@WAS	$3,600	
+PF	
+Marvin Williams
+13.9	9	CHA@GS	$3,600	
+SG	
+Thabo Sefolosha
+16.1	8	ATL@CLE	$3,600	
+PF	
+Adreian Payne
+0	0	ATL@CLE	$3,600	
+PG	
+Kalin Lucas
+0	0	DET@MEM	$3,500	
+SF	
+Doug McDermott
+6.4	9	IND@CHI	$3,500	
+SF	
+Jeffery TaylorO
+12.5	26	CHA@GS	$3,500	
+C	
+Chuck Hayes
+3.5	4	UTA@TOR	$3,500	
+SG	
+C.J. Wilcox
+0	0	PHO@LAC	$3,500	
+SF	
+Justin Holiday
+1.8	2	CHA@GS	$3,500	
+PG	
+Ray McCallum
+3.8	6	SA@SAC	$3,500	
+SF	
+Joe Ingles
+6.2	10	UTA@TOR	$3,500	
+PF	
+Andrew Nicholson
+4.2	4	ORL@WAS	$3,500	
+PF	
+Jarnell Stokes
+0	0	DET@MEM	$3,500	
+PF	
+Greg Smith
+2.7	6	MIN@DAL	$3,500	
+PG	
+Will Cherry
+2.2	2	ATL@CLE	$3,500	
+PF	
+Reggie Evans
+11.4	9	SA@SAC	$3,500	
+SG	
+Will Barton
+5	7	BKN@POR	$3,500	
+SG	
+Tony Snell
+4.9	7	IND@CHI	$3,500	
+PF	
+Cameron Bairstow
+-1	1	IND@CHI	$3,500	
+SG	
+Joe Harris
+4.4	5	ATL@CLE	$3,500	
+SG	
+Zoran Dragic
+0	0	PHO@LAC	$3,500	
+PF	
+Mike Scott
+13.1	7	ATL@CLE	$3,500	
+SG	
+Ian Clark
+2.9	4	UTA@TOR	$3,500	
+PF	
+Mike Muscala
+4.2	2	ATL@CLE	$3,500	
+C	
+Ronny Turiaf
+2.1	2	MIN@DAL	$3,500	
+SG	
+Sergey Karasev
+2.1	4	BKN@POR	$3,500	
+C	
+Rudy Gobert
+13.4	10	UTA@TOR	$3,500	
+SG	
+Nemanja Nedovic
+2.2	24	CHA@GS	$3,500	
+C	
+Lucas Nogueira
+0	0	UTA@TOR	$3,500	
+SG	
+Ricky Ledo
+2.2	11	MIN@DAL	$3,500	
+PG	
+Archie Goodwin
+3.2	3	PHO@LAC	$3,500	
+PF	
+Anthony Bennett
+11.2	7	MIN@DAL	$3,500	
+SF	
+Bruno Caboclo
+0	0	UTA@TOR	$3,500	
+PG	
+Gal Mekel
+5.8	31	MIN@DAL	$3,500	
+SF	
+Luigi Datome
+4.6	34	DET@MEM	$3,500	
+PG	
+Dante Exum
+12	10	UTA@TOR	$3,500	
+PG	
+Tyler Ennis
+2.9	2	PHO@LAC	$3,500	
+SF	
+Austin Daye
+5.5	6	SA@SAC	$3,500	
+PF	
+Aaron Gordon
+11.3	10	ORL@WAS	$3,500	
+C	
+Pero Antic
+9.7	7	ATL@CLE	$3,500	
+PG	
+Nick CalathesO
+12.2	71	DET@MEM	$3,500	
+PF	
+Charlie Villanueva
+3.8	5	MIN@DAL	$3,500	
+SG	
+Nik Stauskas
+5.9	9	SA@SAC	$3,500	
+SF	
+Glenn Robinson III
+2.2	1	MIN@DAL	$3,500	
+PG	
+Toure' Murry
+5.3	51	UTA@TOR	$3,500	
+SG	
+Alan Anderson
+9.6	8	BKN@POR	$3,500	
+C	
+Ognjen Kuzmic
+1.6	2	CHA@GS	$3,500	
+SF	
+Damjan Rudez
+7	10	IND@CHI	$3,500	
+C	
+Shayne Whittington
+9.3	2	IND@CHI	$3,500	
+PF	
+Tony Mitchell
+3.3	21	DET@MEM	$3,500	
+SG	
+Kent Bazemore
+4.7	5	ATL@CLE	$3,500	
+PG	
+Matthew DellavedovaO
+8	3	ATL@CLE	$3,500	
+SG	
+John Jenkins
+5.8	13	ATL@CLE	$3,500	
+SF	
+T.J. Warren
+0	1	PHO@LAC	$3,500	
+SG	
+Jordan Adams
+0	1	DET@MEM	$3,500	
+SF	
+Shabazz Muhammad
+8.7	8	MIN@DAL	$3,500	
+PG	
+Brian Roberts
+9.7	9	CHA@GS	$3,500	
+C	
+Jason Maxiell
+5.2	8	CHA@GS	$3,500	
+SG	
+Ben Gordon
+10.7	8	ORL@WAS	$3,500	
+SF	
+Victor Claver
+5.4	21	BKN@POR	$3,500	
+C	
+Joel Freeland
+6.3	6	BKN@POR	$3,500	
+C	
+Alex Kirk
+1.8	2	ATL@CLE	$3,500	
+PG	
+Jordan Farmar
+8.4	7	PHO@LAC	$3,500	
+SF	
+Al-Farouq Aminu
+11	9	MIN@DAL	$3,500	
+PG	
+Andre Miller
+9.8	8	ORL@WAS	$3,500	
+PF	
+Louis Amundson
+7.3	19	ATL@CLE	$3,500	
+C	
+Ekpe Udoh
+0	1	PHO@LAC	$3,500	
+PF	
+Kevin Seraphin
+9.9	7	ORL@WAS	$3,500	
+C	
+Greg Stiemsma
+5.4	3	UTA@TOR	$3,500	
+PG	
+Steve Blake
+12.8	9	BKN@POR	$3,500	
+SF	
+Quincy Pondexter
+6.2	9	DET@MEM	$3,500	
+SF	
+Caron Butler
+14.1	9	DET@MEM	$3,500	
+PF	
+Elton Brand
+2.2	1	ATL@CLE	$3,500	
+SG	
+Willie Green
+4.9	6	ORL@WAS	$3,500	
+SF	
+Jeremy Evans
+0	2	UTA@TOR	$3,500	
+C	
+Jerome Jordan
+4.4	5	BKN@POR	$3,500	
+SG	
+Leandro Barbosa
+13.4	8	CHA@GS	$3,500	
+SF	
+Landry FieldsO
+1	3	UTA@TOR	$3,500	
+C	
+Brendan Haywood
+0	1	ATL@CLE	$3,500	
+PF	
+Jonas Jerebko
+11.6	7	DET@MEM	$3,500	
+SF	
+Richard Jefferson
+7.4	8	MIN@DAL	$3,500	
+PF	
+Jason Thompson
+11.4	9	SA@SAC	$3,500	
+SF	
+Cartier MartinO
+9.2	59	DET@MEM	$3,500	
+C	
+Matt Bonner
+9	5	SA@SAC	$3,500	
+PG	
+Jannero Pargo
+2	1	CHA@GS	$3,500	
+C	
+Joel Anthony
+5.5	5	DET@MEM	$3,500	
+SF	
+James Jones
+0	1	ATL@CLE	$3,500	
+C	
+Nazr Mohammed
+5.2	80	IND@CHI	$3,500	
+SF	
+Steve Novak
+2.1	7	UTA@TOR	$3,500	
+C	
+Ian Mahinmi
+10.9	10	IND@CHI	$3,500	
+SF	
+Omri Casspi
+11.9	9	SA@SAC	$3,500	
+C	
+DeJuan Blair
+1.9	3	ORL@WAS	$3,500	
+SF	
+Chase Budinger
+4.4	6	MIN@DAL	$3,500	
+PF	
+Anthony Tolliver
+5.5	8	PHO@LAC	$3,500	
+PF	
+Jeff Ayres
+4.8	6	SA@SAC	$3,500	
+SF	
+Mike Miller
+3.7	7	ATL@CLE	$3,500	
+PF	
+Derrick Williams
+3.5	6	SA@SAC	$3,500	
+PF	
+Thomas Robinson
+6.4	7	BKN@POR	$3,500	
+SF	
+Jae Crowder
+5.9	8	MIN@DAL	$3,500	
+C	
+Alex Len
+11.6	9	PHO@LAC	$3,500	
+SG	
+Roy Devyn MarbleO
+1.3	4	ORL@WAS	$3,500	
+C	
+Meyers Leonard
+3.7	4	BKN@POR	$3,500	
+SF	
+Hedo Turkoglu
+4.5	5	PHO@LAC	$3,500	
+SG	
+Glen Rice Jr.
+3.4	5	ORL@WAS	$3,500	
+PF	
+Tyler HansbroughO
+10.6	9	UTA@TOR	$3,500	
+SG	
+Brandon Rush
+0.8	3	CHA@GS	$3,500	
+SF	
+Robbie Hummel
+6.7	5	MIN@DAL	$3,500	
+C	
+Dewayne Dedmon
+7.2	7	ORL@WAS	$3,500	
+PF	
+Eric Moreland
+0	0	SA@SAC	$3,500	
+SG	
+Jared Cunningham
+3.7	3	PHO@LAC	$3,500	
+SG	
+P.J. Hairston
+10	6	CHA@GS	$3,500	
+SG	
+Markel Brown
+0	0	BKN@POR	$3,500	
+SG	
+Spencer Dinwiddie
+1.5	1	DET@MEM	$3,500	
+PG	
+Jorge Gutierrez
+1.3	3	BKN@POR	$3,500	
+C	
+Ryan Hollins
+1.7	5	SA@SAC	$3,500	
+PF	
+Nikola Mirotic
+8.4	9	IND@CHI	$3,500	
+SF	
+Chris Douglas-Roberts
+4.5	4	PHO@LAC	$3,500	
+PG	
+Shaun Livingston
+6.7	8	CHA@GS	$3,500	
+C	
+Bismack Biyombo
+12	2	CHA@GS	$3,500	
+SF	
+Andrei Kirilenko
+2.2	7	BKN@POR	$3,500	
+SF	
+Jordan Hamilton
+13.3	60	UTA@TOR	$3,500	
+SF	
+Kyle Singler
+8.3	9	DET@MEM	$3,500	
+PF	
+Cory Jefferson
+3.9	3	BKN@POR	$3,500	
+SG	
+Allen Crabbe
+6.6	4	BKN@POR	$3,500	
+PF	
+Shavlik Randolph
+2.3	4	PHO@LAC	$3,500	
+PG	
+E'Twaun Moore
+0.3	4	IND@CHI	$3,500	
+PG	
+Shelvin Mack
+6.8	7	ATL@CLE	$3,500	
+PF	
+Jon Leuer
+6.4	9	DET@MEM	$3,500	
+C	
+Festus Ezeli
+7.5	7	CHA@GS	$3,500	

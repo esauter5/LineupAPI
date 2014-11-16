@@ -1,10 +1,10 @@
 namespace :players do
-  desc "TODO"
+  desc "Insert players into db"
   task :insert_players => :environment do
     players = []
 
 
-    lines = File.readlines("public/player_files/nba_lineup_11_14_14.txt")
+    lines = File.readlines("public/player_files/nba_lineup_11_16_14.txt")
 
     i = 0
 
@@ -22,12 +22,31 @@ namespace :players do
 
     players.select! { |p| p["name"][p["name"].length - 1] != "O" }
 
-    binding.pry
     players.each do |p|
-      Player.create(name: p["name"], position: p["position"], ppg: p["ppg"], dollars: p["dollars"], match_time: "2014-11-14T07:00:00Z")
+      Player.create(name: p["name"], position: p["position"], ppg: p["ppg"], dollars: p["dollars"], match_time: "2014-11-16T07:00:00Z")
+    end
+  end
+
+  desc "Scrape ceiling and floors"
+  task :ceiling_floor => :environment do
+    lines = File.readlines("public/player_files/nba_ceiling_11_15_14.txt")
+    players = []
+
+    lines.each do |l|
+      players << l.split("\t").map { |col| col.strip }
     end
 
-    binding.pry
+    players.each do |p|
+      db_player = Player.where(name: p[0], match_time: "2014-11-16T07:00:00Z")
+
+      unless db_player.empty?
+        db_player[0].fp_min = p[5]
+        db_player[0].fp_max = p[4]
+        db_player[0].floor = p[6]
+        db_player[0].ceiling = p[7]
+        db_player[0].save
+      end
+    end
   end
 
 end

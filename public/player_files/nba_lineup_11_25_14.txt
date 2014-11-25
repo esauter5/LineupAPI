@@ -1,0 +1,444 @@
+PF	
+Anthony Davis
+52.8	12	SAC@NO	$12,000	
+C	
+DeMarcus Cousins
+42.6	13	SAC@NO	$10,300	
+PG	
+Stephen Curry
+41.5	12	GS@MIA	$9,900	
+PG	
+John Wall
+41.2	12	ATL@WAS	$9,200	
+C	
+Chris Bosh
+36.9	14	GS@MIA	$8,700	
+PF	
+Paul Millsap
+35.9	11	ATL@WAS	$8,600	
+PF	
+Pau Gasol
+38.8	11	CHI@DEN	$8,600	
+PG	
+Ty Lawson
+32.8	12	CHI@DEN	$8,300	
+SG	
+Dwyane WadeO
+34.4	8	GS@MIA	$8,100	
+SF	
+Rudy GayGTD
+34.8	13	SAC@NO	$8,100	
+C	
+Joakim NoahGTD
+27.7	12	CHI@DEN	$8,000	
+SG	
+Klay Thompson
+33.3	11	GS@MIA	$7,900	
+SG	
+Brad Beal
+28	3	ATL@WAS	$7,700	
+SG	
+Jimmy Butler
+35.3	12	CHI@DEN	$7,700	
+SG	
+Tyreke Evans
+31.9	12	SAC@NO	$7,500	
+PG	
+Derrick Rose
+27.9	6	CHI@DEN	$7,400	
+PG	
+Brandon KnightGTD
+33	14	DET@MIL	$7,400	
+PG	
+Darren CollisonGTD
+32.7	12	SAC@NO	$7,400	
+PG	
+Jrue Holiday
+31.5	12	SAC@NO	$7,400	
+PG	
+Brandon JenningsO
+28.6	13	DET@MIL	$7,100	
+PF	
+Greg Monroe
+30.4	11	DET@MIL	$7,000	
+PF	
+David LeeO
+5	1	GS@MIA	$7,000	
+PG	
+Jeff Teague
+30.3	11	ATL@WAS	$7,000	
+C	
+Marcin Gortat
+27.5	12	ATL@WAS	$6,900	
+C	
+Andre Drummond
+25.4	13	DET@MIL	$6,900	
+C	
+Al Horford
+27.8	11	ATL@WAS	$6,900	
+SF	
+Draymond Green
+28.4	12	GS@MIA	$6,900	
+SF	
+Josh Smith
+29.3	13	DET@MIL	$6,900	
+SF	
+Luol Deng
+24.6	13	GS@MIA	$6,600	
+C	
+Andrew BogutGTD
+26.1	12	GS@MIA	$6,500	
+PG	
+Mario Chalmers
+25.6	14	GS@MIA	$6,100	
+PF	
+Kenneth Faried
+23.2	13	CHI@DEN	$6,000	
+SF	
+Paul Pierce
+24.9	12	ATL@WAS	$6,000	
+PF	
+Taj GibsonO
+24.5	12	CHI@DEN	$5,900	
+PF	
+Ryan Anderson
+23.6	12	SAC@NO	$5,900	
+SG	
+Giannis Antetokounmpo
+22.8	14	DET@MIL	$5,700	
+PF	
+Nene HilarioGTD
+21.2	11	ATL@WAS	$5,600	
+C	
+Larry Sanders
+20	13	DET@MIL	$5,500	
+C	
+Omer AsikGTD
+25.9	8	SAC@NO	$5,500	
+SG	
+Kyle Korver
+24.2	11	ATL@WAS	$5,400	
+PF	
+Marreese Speights
+18.2	11	GS@MIA	$5,400	
+SG	
+O.J. Mayo
+19.4	14	DET@MIL	$5,400	
+SF	
+Jabari Parker
+21.5	14	DET@MIL	$5,400	
+SG	
+Jodie MeeksO
+23	77	DET@MIL	$5,300	
+SF	
+Wilson Chandler
+23	13	CHI@DEN	$5,300	
+SF	
+DeMarre Carroll
+22.8	7	ATL@WAS	$5,300	
+SG	
+Arron Afflalo
+19.9	13	CHI@DEN	$5,200	
+SF	
+Mike Dunleavy
+19.4	14	CHI@DEN	$5,200	
+SF	
+Martell WebsterO
+15.7	78	ATL@WAS	$4,900	
+C	
+Timofey Mozgov
+20.5	13	CHI@DEN	$4,900	
+PF	
+J.J. Hickson
+18.1	5	CHI@DEN	$4,900	
+PG	
+Nate Robinson
+10.4	13	CHI@DEN	$4,800	
+SF	
+Harrison Barnes
+20.5	12	GS@MIA	$4,800	
+SG	
+Eric GordonO
+16.7	12	SAC@NO	$4,700	
+SG	
+Thabo Sefolosha
+17.3	11	ATL@WAS	$4,700	
+SG	
+Kentavious Caldwell-Pope
+17.5	13	DET@MIL	$4,600	
+PG	
+Kirk HinrichGTD
+17.7	12	CHI@DEN	$4,600	
+SF	
+Shawne Williams
+21	14	GS@MIA	$4,500	
+PF	
+Ersan Ilyasova
+14.5	14	DET@MIL	$4,400	
+SG	
+Ben McLemore
+16.1	13	SAC@NO	$4,400	
+SF	
+Khris Middleton
+15.5	11	DET@MIL	$4,300	
+SF	
+Otto PorterGTD
+15.8	11	ATL@WAS	$4,300	
+SF	
+Andre Iguodala
+14.8	12	GS@MIA	$4,300	
+C	
+Zaza Pachulia
+15.7	13	DET@MIL	$4,200	
+SG	
+Randy FoyeO
+13.4	11	CHI@DEN	$4,200	
+PF	
+Kris Humphries
+14.5	11	ATL@WAS	$4,200	
+SG	
+Gary Harris
+13.8	2	CHI@DEN	$4,200	
+PF	
+Darrell Arthur
+14.9	12	CHI@DEN	$4,200	
+PG	
+Norris ColeGTD
+16.3	12	GS@MIA	$4,200	
+PG	
+Aaron Brooks
+16.7	14	CHI@DEN	$4,100	
+SF	
+Danilo Gallinari
+13.4	13	CHI@DEN	$4,000	
+PG	
+D.J. Augustin
+15.7	13	DET@MIL	$4,000	
+PG	
+Shabazz Napier
+14	14	GS@MIA	$4,000	
+PG	
+Garrett Temple
+16.5	12	ATL@WAS	$4,000	
+PG	
+Kendall Marshall
+6	5	DET@MIL	$3,900	
+PF	
+Jason Thompson
+13	13	SAC@NO	$3,800	
+PG	
+Dennis Schroeder
+14.4	10	ATL@WAS	$3,800	
+SG	
+Danny GrangerGTD
+5.7	2	GS@MIA	$3,800	
+SF	
+Caron Butler
+14.5	13	DET@MIL	$3,700	
+PF	
+Carl Landry
+15.3	13	SAC@NO	$3,700	
+PF	
+Mike Muscala
+11.1	3	ATL@WAS	$3,700	
+PF	
+Nikola Mirotic
+12.4	14	CHI@DEN	$3,700	
+PF	
+Jonas Jerebko
+11.3	11	DET@MIL	$3,600	
+SF	
+Omri Casspi
+13.2	13	SAC@NO	$3,600	
+PG	
+Ramon SessionsGTD
+8.5	12	SAC@NO	$3,600	
+PF	
+Drew Gooden
+12.6	7	ATL@WAS	$3,600	
+PF	
+John Henson
+10.9	13	DET@MIL	$3,600	
+PF	
+Adreian Payne
+0	0	ATL@WAS	$3,600	
+SF	
+Luigi DatomeGTD
+4.6	34	DET@MIL	$3,500	
+SG	
+Nemanja Nedovic
+2.2	24	GS@MIA	$3,500	
+SF	
+James Ennis
+7.7	14	GS@MIA	$3,500	
+C	
+Justin Hamilton
+9.3	5	GS@MIA	$3,500	
+SF	
+Damien InglisO
+0	0	DET@MIL	$3,500	
+C	
+Johnny O'BryantO
+0	0	DET@MIL	$3,500	
+C	
+Jusuf Nurkic
+9.4	8	CHI@DEN	$3,500	
+SF	
+Justin Holiday
+1.2	5	GS@MIA	$3,500	
+C	
+Pero Antic
+10.3	10	ATL@WAS	$3,500	
+SG	
+Nik Stauskas
+4.9	13	SAC@NO	$3,500	
+PF	
+Tony Mitchell
+3.3	21	DET@MIL	$3,500	
+SG	
+John Jenkins
+14.2	1	ATL@WAS	$3,500	
+PG	
+Ray McCallum
+3.5	8	SAC@NO	$3,500	
+SF	
+Doug McDermott
+6	14	CHI@DEN	$3,500	
+SG	
+Erick Green
+8.7	1	CHI@DEN	$3,500	
+PF	
+Mike Scott
+11.4	10	ATL@WAS	$3,500	
+SG	
+Kent Bazemore
+5.1	7	ATL@WAS	$3,500	
+C	
+Festus Ezeli
+8	11	GS@MIA	$3,500	
+C	
+Ognjen Kuzmic
+1.8	5	GS@MIA	$3,500	
+PF	
+Cameron Bairstow
+0.4	3	CHI@DEN	$3,500	
+PG	
+Russ Smith
+-0.4	2	SAC@NO	$3,500	
+PG	
+Nate WoltersGTD
+7.3	5	DET@MIL	$3,500	
+SG	
+Tony Snell
+5.8	11	CHI@DEN	$3,500	
+PF	
+Eric Moreland
+0	0	SAC@NO	$3,500	
+C	
+DeJuan Blair
+1.9	3	ATL@WAS	$3,500	
+PF	
+Reggie Evans
+11.4	9	SAC@NO	$3,500	
+PG	
+Andre Miller
+10.1	12	ATL@WAS	$3,500	
+SF	
+Jared Dudley
+9.1	14	DET@MIL	$3,500	
+C	
+JaVale McGeeGTD
+10.8	13	CHI@DEN	$3,500	
+PF	
+Josh McRoberts
+5.9	10	GS@MIA	$3,500	
+C	
+Alexis Ajinca
+9.5	10	SAC@NO	$3,500	
+C	
+Joel Anthony
+4.6	7	DET@MIL	$3,500	
+SG	
+Leandro BarbosaGTD
+12.3	12	GS@MIA	$3,500	
+PF	
+Elton Brand
+7.8	2	ATL@WAS	$3,500	
+SG	
+Brandon Rush
+1.9	7	GS@MIA	$3,500	
+C	
+Chris AndersenO
+7.7	9	GS@MIA	$3,500	
+SF	
+John Salmons
+2.7	6	SAC@NO	$3,500	
+SF	
+Rasual Butler
+11	8	ATL@WAS	$3,500	
+PF	
+Udonis Haslem
+10.3	7	GS@MIA	$3,500	
+PG	
+Shaun Livingston
+8.6	12	GS@MIA	$3,500	
+C	
+Ryan Hollins
+1.6	7	SAC@NO	$3,500	
+PG	
+Jerryd Bayless
+10.7	14	DET@MIL	$3,500	
+SG	
+Shannon Brown
+5.9	5	GS@MIA	$3,500	
+SG	
+Andre Dawkins
+1.1	3	GS@MIA	$3,500	
+SG	
+Spencer Dinwiddie
+2.6	2	DET@MIL	$3,500	
+PG	
+E'Twaun Moore
+2.9	7	CHI@DEN	$3,500	
+SG	
+Austin Rivers
+13.9	12	SAC@NO	$3,500	
+C	
+Patric Young
+0	0	SAC@NO	$3,500	
+C	
+Jeff Withey
+7	6	SAC@NO	$3,500	
+SG	
+Glen Rice Jr.
+3.4	5	ATL@WAS	$3,500	
+PG	
+Shelvin Mack
+8.5	10	ATL@WAS	$3,500	
+SF	
+Kyle Singler
+10.7	13	DET@MIL	$3,500	
+SF	
+Alonzo Gee
+8	9	CHI@DEN	$3,500	
+C	
+Nazr Mohammed
+5.4	2	CHI@DEN	$3,500	
+SF	
+Cartier Martin
+9.2	59	DET@MIL	$3,500	
+PF	
+Kevin Seraphin
+11.1	11	ATL@WAS	$3,500	
+SF	
+Luke Babbitt
+6.2	8	SAC@NO	$3,500	
+PG	
+Jimmer Fredette
+4.5	7	SAC@NO	$3,500	
+PF	
+Derrick Williams
+6.2	9	SAC@NO	$3,500	
+SG	
+Darius Miller
+1.8	4	SAC@NO	$3,500	

@@ -1,0 +1,447 @@
+PG
+Chris Paul
+41.8	11	LAC@MEM	$10,100	
+PG
+Stephen Curry
+42.3	11	GS@OKC	$10,000	
+SG
+Kobe Bryant
+39.4	13	DEN@LAL	$9,400	
+PF
+LaMarcus Aldridge
+37.3	11	POR@BOS	$9,300	
+PF
+Blake Griffin
+36.2	11	LAC@MEM	$9,200	
+PG
+Rajon Rondo
+35.5	10	POR@BOS	$8,800	
+C
+Chris Bosh
+37.4	13	CHA@MIA	$8,800	
+C
+Al Jefferson
+34.2	13	CHA@MIA	$8,700	
+PG
+Damian Lillard
+36.7	12	POR@BOS	$8,700	
+PG
+Russell WestbrookO
+30.8	2	GS@OKC	$8,500	
+PG
+Ty Lawson
+32.1	11	DEN@LAL	$8,200	
+C
+Marc Gasol
+35.9	13	LAC@MEM	$8,100	
+SG
+Dwyane WadeO
+34.4	8	CHA@MIA	$8,100	
+PF
+Zach Randolph
+34	13	LAC@MEM	$8,000	
+PG
+Reggie Jackson
+36.2	11	GS@OKC	$7,900	
+SG
+Klay Thompson
+32.9	10	GS@OKC	$7,800	
+PF
+Serge Ibaka
+28.6	14	GS@OKC	$7,700	
+C
+DeAndre Jordan
+30.7	11	LAC@MEM	$7,200	
+PG
+Mike Conley
+30.1	13	LAC@MEM	$7,200	
+PF
+Jared Sullinger
+32.3	11	POR@BOS	$7,100	
+PF
+David LeeO
+5	1	GS@OKC	$7,000	
+SF
+Nicolas Batum
+26.6	8	POR@BOS	$6,900	
+PG
+Kemba Walker
+29.3	13	CHA@MIA	$6,900	
+SG
+Lance Stephenson
+27.9	13	CHA@MIA	$6,900	
+SF
+Jeff Green
+30.1	11	POR@BOS	$6,900	
+SF
+Draymond Green
+27.8	11	GS@OKC	$6,800	
+PF
+Carlos BoozerGTD
+23.4	13	DEN@LAL	$6,700	
+C
+Jordan Hill
+30.1	13	DEN@LAL	$6,600	
+SF
+Luol Deng
+23.1	12	CHA@MIA	$6,500	
+C
+Andrew Bogut
+27.6	11	GS@OKC	$6,500	
+SG
+Wesley Matthews
+25.5	12	POR@BOS	$6,200	
+PF
+Kenneth Faried
+24.3	12	DEN@LAL	$6,200	
+SF
+Perry Jones IIIGTD
+20.4	5	GS@OKC	$6,100	
+SG
+Jamal Crawford
+25.8	10	LAC@MEM	$6,000	
+C
+Robin Lopez
+24.3	12	POR@BOS	$5,800	
+SG
+Avery Bradley
+19.2	11	POR@BOS	$5,700	
+PG
+Jeremy LinGTD
+21.7	13	DEN@LAL	$5,500	
+C
+Kelly Olynyk
+23.7	11	POR@BOS	$5,500	
+SF
+Jeremy Lamb
+21.8	9	GS@OKC	$5,500	
+SG
+Nick Young
+19.9	3	DEN@LAL	$5,300	
+PG
+Mario Chalmers
+24.4	13	CHA@MIA	$5,300	
+SG
+Courtney Lee
+22.8	10	LAC@MEM	$5,300	
+SG
+Arron Afflalo
+19.5	12	DEN@LAL	$5,200	
+SF
+Wilson Chandler
+22.1	12	DEN@LAL	$5,100	
+PF
+Marreese Speights
+16	10	GS@OKC	$5,000	
+PF
+J.J. Hickson
+18.9	4	DEN@LAL	$5,000	
+C
+Chris Kaman
+20.8	12	POR@BOS	$5,000	
+SF
+Harrison Barnes
+21.1	11	GS@OKC	$4,900	
+PF
+Ed Davis
+20.9	13	DEN@LAL	$4,900	
+SG
+Andre Roberson
+17	6	GS@OKC	$4,900	
+PG
+Nate Robinson
+10.9	12	DEN@LAL	$4,800	
+SF
+Michael Kidd-GilchristO
+19.4	6	CHA@MIA	$4,800	
+C
+Timofey Mozgov
+19.5	12	DEN@LAL	$4,700	
+PG
+Marcus SmartO
+13.7	5	POR@BOS	$4,700	
+SF
+Shawne Williams
+21.3	13	CHA@MIA	$4,500	
+SF
+Evan Turner
+17.5	11	POR@BOS	$4,500	
+SF
+Andre Iguodala
+14.9	11	GS@OKC	$4,400	
+SG
+Randy Foye
+14.6	10	DEN@LAL	$4,300	
+PF
+Darrell Arthur
+15	11	DEN@LAL	$4,300	
+SG
+Tony AllenGTD
+18.7	11	LAC@MEM	$4,300	
+C
+Spencer Hawes
+15.8	11	LAC@MEM	$4,300	
+PG
+Norris ColeGTD
+16.3	12	CHA@MIA	$4,200	
+SG
+Gary Harris
+13.8	2	DEN@LAL	$4,200	
+SF
+Lance Thomas
+14.6	14	GS@OKC	$4,200	
+SG
+Anthony Morrow
+16.9	7	GS@OKC	$4,200	
+PF
+Brandon Bass
+14.2	11	POR@BOS	$4,200	
+PG
+Sebastian Telfair
+15.8	14	GS@OKC	$4,200	
+C
+Kosta Koufos
+11.1	12	LAC@MEM	$4,200	
+SF
+Wesley Johnson
+15	13	DEN@LAL	$4,100	
+SG
+J.J. Redick
+15.9	11	LAC@MEM	$4,100	
+C
+Steven Adams
+19.4	14	GS@OKC	$4,000	
+SG
+Gary Neal
+19.1	11	CHA@MIA	$4,000	
+PG
+Shabazz Napier
+13.6	13	CHA@MIA	$4,000	
+SF
+Dorell Wright
+5.6	6	POR@BOS	$4,000	
+SF
+Gerald Henderson
+10.8	11	CHA@MIA	$4,000	
+PF
+Josh McRoberts
+5.7	9	CHA@MIA	$3,900	
+PF
+Noah Vonleh
+5.2	2	CHA@MIA	$3,900	
+SF
+Danilo Gallinari
+13	12	DEN@LAL	$3,900	
+C
+Tyler Zeller
+12.7	11	POR@BOS	$3,800	
+SG
+Danny GrangerGTD
+5.7	2	CHA@MIA	$3,800	
+SF
+Vince Carter
+11.7	12	LAC@MEM	$3,800	
+PG
+Ronnie Price
+13.7	12	DEN@LAL	$3,800	
+SG
+Marcus Thornton
+11.5	10	POR@BOS	$3,700	
+PG
+Beno Udrih
+12.7	12	LAC@MEM	$3,700	
+SF
+James Ennis
+8	13	CHA@MIA	$3,700	
+SF
+Tayshaun Prince
+11.8	8	LAC@MEM	$3,700	
+C
+Kendrick Perkins
+12.9	14	GS@OKC	$3,700	
+PG
+Steve Blake
+13.8	12	POR@BOS	$3,700	
+PF
+Jon Leuer
+10	12	LAC@MEM	$3,600	
+C
+Meyers Leonard
+8.1	6	POR@BOS	$3,600	
+C
+Vitor FaveraniO
+10.3	37	POR@BOS	$3,600	
+SF
+Matt Barnes
+12.2	11	LAC@MEM	$3,600	
+PF
+Jarnell Stokes
+5.6	3	LAC@MEM	$3,500	
+SG
+Will Barton
+4.8	10	POR@BOS	$3,500	
+PG
+Kalin Lucas
+2	1	LAC@MEM	$3,500	
+SF
+Jeffery TaylorO
+12.5	26	CHA@MIA	$3,500	
+C
+Festus Ezeli
+7.4	10	GS@OKC	$3,500	
+SG
+Erick Green
+8.7	1	DEN@LAL	$3,500	
+C
+Jusuf Nurkic
+9.4	8	DEN@LAL	$3,500	
+SF
+Justin Holiday
+1.2	5	GS@OKC	$3,500	
+SG
+C.J. Wilcox
+0	0	LAC@MEM	$3,500	
+SF
+James Young
+4.1	3	POR@BOS	$3,500	
+SG
+C.J. McCollumO
+8.3	11	POR@BOS	$3,500	
+PF
+Dwight Powell
+1	2	POR@BOS	$3,500	
+C
+Joel Freeland
+6.3	9	POR@BOS	$3,500	
+PF
+Mitch McGaryO
+0	0	GS@OKC	$3,500	
+PF
+Grant Jerrett
+0	0	GS@OKC	$3,500	
+PG
+Brian Roberts
+10.9	13	CHA@MIA	$3,500	
+SF
+Victor Claver
+5.4	21	POR@BOS	$3,500	
+C
+Ognjen Kuzmic
+1.8	5	GS@OKC	$3,500	
+SG
+Jordan Clarkson
+8.7	10	DEN@LAL	$3,500	
+SG
+Jordan Adams
+5.8	4	LAC@MEM	$3,500	
+PG
+Nick Calathes
+12.2	71	LAC@MEM	$3,500	
+PF
+Marvin Williams
+12.6	13	CHA@MIA	$3,500	
+SG
+Nemanja Nedovic
+2.2	24	GS@OKC	$3,500	
+C
+Robert Sacre
+7.3	12	DEN@LAL	$3,500	
+SG
+Andre Dawkins
+1.1	3	CHA@MIA	$3,500	
+SG
+Brandon Rush
+1.4	6	GS@OKC	$3,500	
+SF
+Quincy PondexterGTD
+8	11	LAC@MEM	$3,500	
+SG
+Xavier Henry
+3.6	9	DEN@LAL	$3,500	
+C
+Hassan Whiteside
+5.9	18	LAC@MEM	$3,500	
+PF
+Nick Collison
+13.4	14	GS@OKC	$3,500	
+PG
+Ishmael Smith
+4.9	5	GS@OKC	$3,500	
+PG
+Shaun Livingston
+8.4	11	GS@OKC	$3,500	
+C
+Ekpe Udoh
+0.8	4	LAC@MEM	$3,500	
+SF
+Alonzo Gee
+8	9	DEN@LAL	$3,500	
+C
+JaVale McGee
+11.1	12	DEN@LAL	$3,500	
+SF
+Hedo Turkoglu
+5.2	7	LAC@MEM	$3,500	
+PG
+Jannero Pargo
+7.1	3	CHA@MIA	$3,500	
+SG
+Shannon Brown
+7.7	4	CHA@MIA	$3,500	
+SG
+Wayne Ellington
+13.3	6	DEN@LAL	$3,500	
+SG
+Leandro Barbosa
+13	11	GS@OKC	$3,500	
+C
+Bismack Biyombo
+14.6	6	CHA@MIA	$3,500	
+PF
+Glen Davis
+4.8	6	LAC@MEM	$3,500	
+C
+Jason Maxiell
+5.4	12	CHA@MIA	$3,500	
+C
+Justin Hamilton
+9.3	5	CHA@MIA	$3,500	
+PG
+Phil (Flip) Pressey
+9.6	7	POR@BOS	$3,500	
+SF
+Reggie Bullock
+5.4	6	LAC@MEM	$3,500	
+PG
+Jordan Farmar
+8.9	11	LAC@MEM	$3,500	
+SG
+P.J. HairstonO
+8.7	8	CHA@MIA	$3,500	
+PF
+Thomas Robinson
+6.1	8	POR@BOS	$3,500	
+PF
+Cody Zeller
+15.7	13	CHA@MIA	$3,500	
+PF
+Udonis Haslem
+10.5	6	CHA@MIA	$3,500	
+SF
+Chris Douglas-RobertsO
+4.5	4	LAC@MEM	$3,500	
+SG
+Allen Crabbe
+8.5	7	POR@BOS	$3,500	
+C
+Chris Andersen
+8.7	8	CHA@MIA	$3,500	
+PF
+Ryan KellyO
+6.8	3	DEN@LAL	$3,500	
+SF
+Gerald Wallace
+2.2	4	POR@BOS	$3,500	
+SG
+Jared Cunningham
+2	7	LAC@MEM	$3,500	

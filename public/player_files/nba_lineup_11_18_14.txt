@@ -1,0 +1,354 @@
+PF	
+Anthony Davis
+54.1	9	NO@SAC	$11,600	
+C	
+DeMarcus Cousins
+40.1	10	NO@SAC	$9,700	
+SG	
+Kobe Bryant
+39.8	10	LAL@ATL	$9,400	
+PF	
+Carmelo Anthony
+35.3	11	NY@MIL	$8,900	
+PG	
+Russell WestbrookO
+30.8	2	OKC@UTA	$8,500	
+SF	
+Rudy GayO
+36.8	10	NO@SAC	$8,400	
+PF	
+Paul Millsap
+34.2	9	LAL@ATL	$8,400	
+PG	
+Reggie Jackson
+37.2	8	OKC@UTA	$8,000	
+PF	
+Serge Ibaka
+28.7	11	OKC@UTA	$7,800	
+SG	
+Tyreke Evans
+34.6	9	NO@SAC	$7,600	
+PG	
+Jrue Holiday
+31.5	9	NO@SAC	$7,200	
+SF	
+Gordon HaywardO
+34.4	11	OKC@UTA	$7,200	
+PG	
+Brandon Knight
+34.1	10	NY@MIL	$7,200	
+PG	
+Jeff Teague
+28.9	9	LAL@ATL	$7,100	
+PF	
+Derrick Favors
+32.3	11	OKC@UTA	$7,000	
+C	
+Al Horford
+28.7	9	LAL@ATL	$6,900	
+C	
+Jordan Hill
+29.5	10	LAL@ATL	$6,500	
+PG	
+Darren Collison
+31.7	9	NO@SAC	$6,500	
+PF	
+Carlos Boozer
+22.6	10	LAL@ATL	$6,300	
+PF	
+Ryan Anderson
+24	9	NO@SAC	$6,100	
+SF	
+Perry Jones IIIO
+20.4	5	OKC@UTA	$6,100	
+C	
+Larry Sanders
+22	10	NY@MIL	$5,900	
+PG	
+Trey Burke
+22.1	11	OKC@UTA	$5,700	
+PG	
+Jose CalderonO
+21.9	81	NY@MIL	$5,600	
+PG	
+Jeremy Lin
+21.1	10	LAL@ATL	$5,600	
+SF	
+Jabari Parker
+19.9	10	NY@MIL	$5,500	
+C	
+Omer AsikO
+25.9	8	NO@SAC	$5,500	
+SG	
+J.R. Smith
+20.4	10	NY@MIL	$5,500	
+SG	
+Alec Burks
+21.6	11	OKC@UTA	$5,400	
+SF	
+Jeremy Lamb
+23	6	OKC@UTA	$5,400	
+SG	
+Kyle Korver
+25.6	9	LAL@ATL	$5,400	
+SG	
+Iman ShumpertO
+21.7	10	NY@MIL	$5,400	
+C	
+Enes Kanter
+19.4	11	OKC@UTA	$5,300	
+SF	
+DeMarre CarrollO
+23	6	LAL@ATL	$5,300	
+SG	
+Giannis Antetokounmpo
+20.8	10	NY@MIL	$5,200	
+SG	
+O.J. Mayo
+19.7	10	NY@MIL	$5,200	
+SG	
+Andre RobersonO
+18.1	4	OKC@UTA	$5,200	
+PF	
+Andrea BargnaniO
+23	42	NY@MIL	$5,100	
+SG	
+Nick YoungO
+23.5	64	LAL@ATL	$5,100	
+PF	
+Amar'e Stoudemire
+22.7	10	NY@MIL	$5,100	
+SG	
+Eric Gordon
+15.8	9	NO@SAC	$5,000	
+PF	
+Ed Davis
+22.5	10	LAL@ATL	$5,000	
+SF	
+Khris Middleton
+17.4	7	NY@MIL	$4,600	
+SF	
+Lance Thomas
+14.9	11	OKC@UTA	$4,300	
+SG	
+Anthony Morrow
+17.3	4	OKC@UTA	$4,300	
+C	
+Steven Adams
+20	11	OKC@UTA	$4,200	
+PG	
+Sebastian Telfair
+16.3	11	OKC@UTA	$4,200	
+SF	
+Wesley Johnson
+15.2	10	LAL@ATL	$4,100	
+C	
+Samuel Dalembert
+14.1	11	NY@MIL	$4,100	
+SG	
+Ben McLemore
+15.4	10	NO@SAC	$4,100	
+PG	
+Ronnie Price
+15.5	9	LAL@ATL	$4,000	
+PF	
+Ersan Ilyasova
+10.9	10	NY@MIL	$4,000	
+C	
+Zaza Pachulia
+13.9	9	NY@MIL	$4,000	
+PG	
+Kendall Marshall
+3.2	4	NY@MIL	$3,900	
+PF	
+Carl Landry
+16	10	NO@SAC	$3,900	
+SG	
+Thabo Sefolosha
+17	9	LAL@ATL	$3,800	
+PG	
+Dennis Schroeder
+15.5	8	LAL@ATL	$3,800	
+C	
+Kendrick Perkins
+12.9	11	OKC@UTA	$3,800	
+PG	
+Ramon Sessions
+8.9	10	NO@SAC	$3,800	
+SF	
+Quincy Acy
+13	9	NY@MIL	$3,700	
+PF	
+Mike Muscala
+11.1	3	LAL@ATL	$3,700	
+PF	
+John Henson
+10.8	10	NY@MIL	$3,700	
+SG	
+Tim Hardaway Jr.
+12.1	11	NY@MIL	$3,700	
+PG	
+Shane Larkin
+14.7	11	NY@MIL	$3,700	
+PF	
+Jason Smith
+12.5	11	NY@MIL	$3,700	
+PF	
+Jason ThompsonO
+12.5	10	NO@SAC	$3,600	
+SF	
+Rodney HoodO
+10.8	6	OKC@UTA	$3,600	
+SG	
+Austin Rivers
+14.4	9	NO@SAC	$3,600	
+SF	
+Omri Casspi
+12.6	10	NO@SAC	$3,600	
+C	
+Rudy Gobert
+13.9	11	OKC@UTA	$3,600	
+PG	
+Jerryd Bayless
+11.9	10	NY@MIL	$3,600	
+PF	
+Trevor Booker
+15.4	11	OKC@UTA	$3,600	
+PF	
+Adreian Payne
+0	0	LAL@ATL	$3,600	
+PG	
+Nate Wolters
+7.6	4	NY@MIL	$3,500	
+SG	
+Kent Bazemore
+5.4	6	LAL@ATL	$3,500	
+SG	
+Jordan Clarkson
+8.7	9	LAL@ATL	$3,500	
+C	
+Robert Sacre
+7.1	9	LAL@ATL	$3,500	
+C	
+Alexis Ajinca
+6.6	7	NO@SAC	$3,500	
+SG	
+Ian Clark
+2.7	5	OKC@UTA	$3,500	
+PG	
+Ray McCallum
+3.8	6	NO@SAC	$3,500	
+PG	
+Toure' Murry
+5.3	51	OKC@UTA	$3,500	
+PF	
+Grant JerrettO
+0	0	OKC@UTA	$3,500	
+C	
+Pero Antic
+8.9	8	LAL@ATL	$3,500	
+C	
+Cole Aldrich
+9.8	7	NY@MIL	$3,500	
+PG	
+Dante Exum
+11.8	11	OKC@UTA	$3,500	
+SF	
+Damien InglisO
+0	0	NY@MIL	$3,500	
+SF	
+Joe Ingles
+7.2	11	OKC@UTA	$3,500	
+SF	
+Jared Dudley
+8.6	10	NY@MIL	$3,500	
+SF	
+Cleanthony EarlyO
+5.1	7	NY@MIL	$3,500	
+PG	
+Pablo Prigioni
+11.4	9	NY@MIL	$3,500	
+PF	
+Mike Scott
+11.9	8	LAL@ATL	$3,500	
+PF	
+Mitch McGaryO
+0	0	OKC@UTA	$3,500	
+SG	
+Nik Stauskas
+5.3	10	NO@SAC	$3,500	
+C	
+Ryan Hollins
+1.7	5	NO@SAC	$3,500	
+PF	
+Eric Moreland
+0	0	NO@SAC	$3,500	
+SF	
+Steve Novak
+2.1	7	OKC@UTA	$3,500	
+PF	
+Elton Brand
+7.8	2	LAL@ATL	$3,500	
+PF	
+Ryan KellyO
+6.8	3	LAL@ATL	$3,500	
+C	
+Patric Young
+0	0	NO@SAC	$3,500	
+PF	
+Derrick Williams
+3.5	7	NO@SAC	$3,500	
+PG	
+Shelvin Mack
+8.1	8	LAL@ATL	$3,500	
+SF	
+Kevin DurantO
+49.6	81	OKC@UTA	$3,500	
+PF	
+Reggie Evans
+11.4	9	NO@SAC	$3,500	
+SG	
+Wayne EllingtonO
+13.9	5	LAL@ATL	$3,500	
+SF	
+Jordan Hamilton
+13.3	60	OKC@UTA	$3,500	
+PF	
+Nick Collison
+13.6	11	OKC@UTA	$3,500	
+C	
+Jeff Withey
+2.5	4	NO@SAC	$3,500	
+SG	
+Xavier Henry
+3.7	8	LAL@ATL	$3,500	
+SF	
+Jeremy Evans
+0	3	OKC@UTA	$3,500	
+PG	
+Jimmer Fredette
+4.5	6	NO@SAC	$3,500	
+PF	
+Travis Wear
+3.6	8	NY@MIL	$3,500	
+PG	
+Ishmael Smith
+5.3	4	OKC@UTA	$3,500	
+SF	
+Luke Babbitt
+6.4	5	NO@SAC	$3,500	
+SF	
+John Salmons
+1.7	4	NO@SAC	$3,500	
+SG	
+Darius Miller
+2	3	NO@SAC	$3,500	
+PG	
+Russ Smith
+-2	1	NO@SAC	$3,500	
+C	
+Johnny O'BryantO
+0	0	NY@MIL	$3,500	
+SG	
+John Jenkins
+14.2	1	LAL@ATL	$3,500	

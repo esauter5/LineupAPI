@@ -1,11 +1,13 @@
 class LineupController < ApplicationController
   def players
-    render json: Player.where(match_time: "2014-11-16T07:00:00Z").to_json
+    render json: Player.where(match_time: "2014-11-#{Time.new.day}T07:00:00Z").sort { |a,b| b.ppg <=> a.ppg }.to_json
   end
-  
+
   def optimal
     risk = params[:risk]
-    players = Player.where(match_time: "2014-11-16T07:00:00Z")
+    excluded_players = params[:exclude] || []
+    players = Player.where(match_time: "2014-11-#{Time.new.day}T07:00:00Z")
+    players = players.select { |p| !excluded_players.include? p.name } #exclude
     xes = players.map.with_index { |x,i| "x#{i}"}
     points_xes = players.map.with_index { |x,i| "#{x[risk]}x#{i}"}
     cost_xes = players.map.with_index { |x,i| "#{x["dollars"]}x#{i}"}
@@ -18,6 +20,8 @@ class LineupController < ApplicationController
     i_indexes = []
 
     params[:include].each { |inc| i_indexes << players.index { |p| p.name == inc } } if params[:include]
+
+
 
     maximize_statement += " = 9;"
     costs = cost_xes.join(" + ") + " <= 60000;"
@@ -55,7 +59,7 @@ class LineupController < ApplicationController
     output = output.split("\n").map { |x| x.split(" ") }
     output = output[4..output.length - 1]
 
-    lineup = output.select { |x| x[1].to_i == 1 }.map { |y| players[y[0].gsub("x", "").to_i] } 
+    lineup = output.select { |x| x[1].to_i == 1 }.map { |y| players[y[0].gsub("x", "").to_i] }
 
     render json: lineup.to_json and return
   end
